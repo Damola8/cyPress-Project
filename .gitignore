@@ -1,0 +1,14 @@
+node_modules/
+.vscode/
+#macOS
+.DS_Store
+.idea/
+
+#cypress artifacts
+cypress/videos
+cypress/screeenshots
+
+cypress/reports/
+
+#miscellaenous files
+dist/
